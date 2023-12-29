@@ -1,0 +1,47 @@
+.page {
+  padding: 0 20px;
+  font-family: Quicksand;
+}
+
+.page .page-content {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-size: 13px;
+}
+
+.heading {
+  font-weight: bold;
+  text-transform: uppercase;
+  width: fit-content;
+}
+
+.btn {
+  color: #000;
+}
+
+.btn.cancle {
+  background-color:#E26649;
+}
+
+.btn.submit {
+  background-color: #253754;
+  color: #fff !important;
+}
+
+.btn.edit {
+  background-color: #90B7CE;
+  color: #fff !important;
+}
+
+.btn.green {
+  background-color: #5aecc8;
+  color: #fff !important;
+}
+
+.btn.back {
+  border: 1px solid #d3d3d3;
+  background-color: #f8f9fa;
+  box-shadow: inset 1px 1px 1px 0 #ccdbe8, inset -1px -1px 1px 1px hsla(0, 0%, 100%, .5);
+}
